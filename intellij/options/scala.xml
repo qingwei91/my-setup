@@ -1,0 +1,9 @@
+<application>
+  <component name="ScalaSettings">
+    <option name="SHOW_TYPE_TOOLTIP_DELAY" value="300" />
+    <option name="COMPILE_SERVER_PORT" value="60550" />
+    <option name="COMPILE_SERVER_ID" value="52b4b503-302c-4b03-a4f7-27008e014c0c" />
+    <option name="USE_DEFAULT_SDK" value="false" />
+    <option name="COMPILE_SERVER_SDK" value="1.8" />
+  </component>
+</application>

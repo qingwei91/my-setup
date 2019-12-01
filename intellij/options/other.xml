@@ -1,0 +1,130 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="12.13.0" last-modified="1571653892362" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.1.0/bin/node" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value=".SFNSText-Regular" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="AWSCloudFormation.LAST_UPDATE" value="1572510348820" />
+    <property name="AWSCloudFormation.LAST_VERSION" value="0.6.14" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="ColorChooser.RecentColors" value="82-255-147-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.732493" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="Scala test" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.14652015" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.17211704" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.20855057" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="HbFormatter" value="enabled" />
+    <property name="INSPECTION_FILTER_HISTORY" value="scala&#10;groovy&#10;cloud" />
+    <property name="INTENTION_FILTER_HISTORY" value="wrap" />
+    <property name="InstalledPluginsSearchHistory" value="s&#10;st&#10;str&#10;stre&#10;strea" />
+    <property name="MarketplacePluginsSearchHistory" value="stream&#10;checks&#10;check&#10;checkstyle&#10;checksty" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MoveClass.OpenInEditor" value="true" />
+    <property name="PLUGIN_FILTER" value="mark&#10;rain&#10;codegla&#10;sbt&#10;ruby" />
+    <property name="SHELLCHECK.PATH" value="I do mind" />
+    <property name="ScalaSupport.hideIgnoredTests" value="false" />
+    <property name="ScalaSupport.hidePassedTests" value="true" />
+    <property name="SearchEveryWhereHistory" value="TestA&#10;Validated&#10;Puller&#10;ignore&#10;{               case Right(b) =&gt; Success(b :: acc)               case Left(a)  =&gt; f(a).map {}             }" />
+    <property name="SettingsSearchHistory" value="format&#10;plugin&#10;ok&#10;scala&#10;vi" />
+    <property name="SplitFileEditor.Proportion" value="0.54458296" />
+    <property name="SpringBeansModulesPanel[0]" value="0.14652015" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="scala&#10;sbt&#10;sca&#10;mac&#10;apple" />
+    <property name="TrendingPluginsSearchHistory" value="haskell&#10;cloudformation&#10;ruby" />
+    <property name="Vcs.Log.Text.Filter.History" value="v3.4.0" />
+    <property name="android-component-compatibility-check" value="1531900886908" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="debugger.smart.chooser.counter" value="1" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="eclipse.project.dir" value="$USER_HOME$/projects/mlb/legacy/iap-activation" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.162" value="17" />
+    <property name="evlsprt3.163" value="10" />
+    <property name="evlsprt3.171" value="18" />
+    <property name="evlsprt3.172" value="10" />
+    <property name="evlsprt3.173" value="17" />
+    <property name="evlsprt3.181" value="11" />
+    <property name="evlsprt3.182" value="13" />
+    <property name="evlsprt3.183" value="17" />
+    <property name="evlsprt3.191" value="16" />
+    <property name="evlsprt3.192" value="18" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/projects/mlbam-in-app-purchases&#10;/Users/limqingwei/projects/just-us&#10;/Users/limqingwei/projects/neptune-all&#10;/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home&#10;/Users/limqingwei/Documents/jboss-4.2.2.GA&#10;/Users/limqingwei/projects/scalajs-snake&#10;/&#10;/Users/limqingwei/projects/scalafiddle-core&#10;/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home&#10;/Users/limqingwei/projects/critical-region" />
+    <property name="file.gist.reindex.count" value="119108" />
+    <property name="fileTypeChangedCounter" value="94" />
+    <property name="ideavim.statistics.timestamp" value="1574513305721" />
+    <property name="installed.kotlin.plugin.version" value="1.1.3-release-IJ2017.2-2" />
+    <property name="java.module.default.source.root" value="src" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="last.imported.location" value="$USER_HOME$/projects/baguette" />
+    <property name="lastTip" value="12" />
+    <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
+    <property name="org.intellij.plugins.hcl.LAST_UPDATE" value="1574432301905" />
+    <property name="org.intellij.plugins.hcl.LAST_VERSION" value="0.7.7" />
+    <property name="org.rust.LAST_UPDATE" value="1520588300708" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1574065760130" />
+    <property name="project.wizard.group" value="Scala" />
+    <property name="project.wizard.template" value="sbt" />
+    <property name="scala.last.updated" value="1574453207850" />
+    <property name="search.everywhere.max.popup.width" value="695" />
+    <property name="selected.color.option.type" value="GHERKIN_TABLE_CELL" />
+    <property name="settings.code.style.selected.tab.Groovy" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JAVA" value="JavaDoc" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.Scala" value="Type Annotations" />
+    <property name="show.vcs.annotation.aspect.Revision" value="false" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.5.2" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="vcs.log.details.splitter.proportion" value="0.7172996" />
+  </component>
+</application>

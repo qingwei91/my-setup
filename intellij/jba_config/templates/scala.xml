@@ -1,0 +1,8 @@
+<templateSet group="scala">
+  <template name="newcomp" value="import japgolly.scalajs.react._&#10;import japgolly.scalajs.react.vdom.html_&lt;^._&#10;import japgolly.scalajs.react.extra._&#10;&#10;object $NAME$ {&#10;&#10;  final case class Props() {&#10;    @inline def render: VdomElement = Component(this)&#10;  }&#10;&#10;  //implicit val reusabilityProps: Reusability[Props] =&#10;  //  Reusability.caseClass&#10;&#10;  final class Backend($: BackendScope[Props, Unit]) {&#10;    def render(p: Props): VdomElement =&#10;      &lt;.div&#10;  }&#10;&#10;  val Component = ScalaComponent.builder[Props](&quot;$NAME$&quot;)&#10;    .renderBackend[Backend]&#10;    //.configure(Reusability.shouldComponentUpdate)&#10;    .build&#10;}" description="New React Component" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,44 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="ignore" type="Git exclude file" />
+      <mapping pattern="Jenkinsfile*" type="Groovy" />
+      <mapping ext="deploy-lambda-error-rate" type="Groovy" />
+      <mapping ext="run-perf-tests" type="Groovy" />
+      <mapping ext="populatedisneyacc" type="Groovy" />
+      <mapping ext="deploy-general" type="Groovy" />
+      <mapping pattern="ACT-91-ReturnTemporaryGrantWhenInternalSystemFailed" type="Markdown" />
+      <mapping pattern="threaddump" type="PLAIN_TEXT" />
+      <mapping pattern="debug" type="PLAIN_TEXT" />
+      <mapping pattern="ws-access-2017-01-04" type="PLAIN_TEXT" />
+      <mapping pattern="defaultConf" type="PLAIN_TEXT" />
+      <mapping pattern="ids" type="PLAIN_TEXT" />
+      <mapping pattern="t2" type="PLAIN_TEXT" />
+      <mapping pattern=".projectile" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="block" type="PLAIN_TEXT" />
+      <mapping pattern=".scalafmt" type="PLAIN_TEXT" />
+      <mapping pattern=".dont-delete-me" type="PLAIN_TEXT" />
+      <mapping pattern="event-data" type="PLAIN_TEXT" />
+      <mapping pattern="packager-mappings-universal" type="PLAIN_TEXT" />
+      <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
+      <mapping pattern="localdlq" type="PLAIN_TEXT" />
+      <mapping pattern=".vimrc" type="PLAIN_TEXT" />
+      <mapping ext="publish-lambda-error-rate" type="PLAIN_TEXT" />
+      <mapping ext="rotate-keys" type="PLAIN_TEXT" />
+      <mapping ext="run-perf-test" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="tx" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="ss" type="PLAIN_TEXT" />
+      <mapping ext="variables" type="PLAIN_TEXT" />
+      <mapping ext="6dockerfile" type="PLAIN_TEXT" />
+      <mapping ext="deploy-dependencies" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="truststore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+    </extensionMap>
+  </component>
+</application>

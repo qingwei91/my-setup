@@ -1,0 +1,21 @@
+<application>
+  <component name="AppserversManager">
+    <ServerDK NAME="JBoss 4.2.2.GA">
+      <option name="SOURCE_INTEGRATION_NAME" value="JBoss Server" />
+      <DATA>
+        <option name="HOME" value="$USER_HOME$/Documents/jboss-4.2.2.GA" />
+      </DATA>
+    </ServerDK>
+    <LibraryTable>
+      <library name="JBoss 4.2.2.GA">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/jboss-4.2.2.GA/server/all/lib/jboss-j2ee.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/jboss-4.2.2.GA/server/all/lib/jsp-api.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/jboss-4.2.2.GA/server/all/lib/servlet-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </LibraryTable>
+  </component>
+</application>

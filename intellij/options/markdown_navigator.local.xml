@@ -1,0 +1,25 @@
+<application>
+  <component name="ApplicationLocal" sharedSettingsMigrated="true">
+    <DocumentSettings showHtmlPreview="false" verbatimLangInjections="true" htmlLangInjections="true" multiLineImageUrlInjections="true" softWraps="0" iconGutters="true" softWrapAtMargin="true" showEmojiInGutter="false" showBreadcrumbText="true" maxBreadcrumbText="30" previewScrollDelay="500" typingUpdateDelay="500" enableAnnotator="true" hideDisabledButtons="false" hideToolbar="false" disableGifImages="true" codeLikeStyleToggle="true" overrideEditorDragDropHandler="false" toggleStylePunctuations=".,:;!?" htmlMimeMaxImageWidth="100%" htmlMimeFontFamily="" pdfMaxImageWidth="504pt" pdfFontFamily="" detectHtmlOnPaste="false" textSplitLayoutToggle="true" asteriskItalics="true" verticalSplitPreview="false" convertHtmlOnPaste="true" showHeadingID="false" useRenameSpellingFix="true" usePasteHandler="true" includeDirsInCompletion="true" enableLineMarkers="true" tabOverrideTables="true" tabOverrideTablesSelect="false" tabOverrideLists="true" tabOverrideSmartEditChars="true" showApplyAllIntentionsEverywhere="false" askHtmlOptionsOnPaste="false" fullHighlightCombinations="true" htmlPasteAddTrailingEol="false" htmlPasteSkipInlineStrong="false" htmlPasteSkipInlineEmphasis="false" htmlPasteSkipInlineCode="false" htmlPasteSkipInlineDel="false" htmlPasteSkipInlineIns="false" htmlPasteSkipInlineSub="false" htmlPasteSkipInlineSup="false" htmlPasteSkipHeading1="false" htmlPasteSkipHeading2="false" htmlPasteSkipHeading3="false" htmlPasteSkipHeading4="false" htmlPasteSkipHeading5="false" htmlPasteSkipHeading6="false" htmlPasteSkipAttributes="false" htmlPasteSkipFencedCode="false" htmlPasteLink="1" htmlPasteImage="1" htmlPasteSkipMath="false" htmlPasteTextMath="false" htmlPasteSkipCharEscape="false" joinStripPrefix="false" completeRemoteUrlAnchors="false" validateRemoteUrlAnchors="false" validateRemoteUrlLinks="false" smartEditUnderscore="false" smartEditAsterisks="false" smartEditTildes="false" smartEditBackTicks="false" enterAddsListItem="true" enterRemovesListItem="true" backspaceRemovesListItem="true" enterDeletesEmptyTableColumns="true" enterDeletesEmptyTableRows="true" enterInsertTableRows="true" enterInsertBlockQuote="true" enterAddsHardBreakOnSplit="true" wrapOnlyOnTypingSpace="false" showUrlPageForDocumentation="false" autoPopUpPlainTextCompletions="false" ignoreFencedCodeContent="true" insertGitHubIssueCompletion="0" droppedLinkInsertAs="0" linkCompletionDefaultFormat="0" taskFetchLimit="100" remoteContentCacheExpiration="3600000" remoteContentRequests="4" zoomFactor="1.0" syntaxHighlighting="1" structureView="3" documentIcon="0" wikiIcon="2" />
+    <LicenseInformation licenseType="" secureConnection="true">
+      <licenseCode />
+      <activationCode />
+    </LicenseInformation>
+    <DebugSettings debugFormatText="false" debugCombinationColors="false" debugTestFileDirectory="" generateParserExceptions="false" enableJavaFxPreviewDebugging="false" javaFxPreviewResourceUseSerials="true" flexmarkSpecExampleRendering="0" flexmarkSpecExampleRenderHtml="false" parsingTimeout="100" preferencesDialogWidth="1000" preferencesDialogHeight="1000" javaFxPreviewDebugPort="51742" lastSettingsImport="" javaFxPreviewResourceURL="" javaFxPreviewResourceDir="" translateAutoDetect="false" remoteInvalidUntilFetched="false" outputRemoteFetchExceptions="false" translateFrom="de" translateTo="en" translateKey="" reloadEditorsOnFileTypeChange="true" reinitializeEditorsOnSettingsChange="true" cacheSvgForSwing="true" taskItemImages="false">
+      <javaFxPreviewResourceDirHistory>
+        <option name="" />
+      </javaFxPreviewResourceDirHistory>
+      <debugTestFileDirectoryHistory>
+        <option name="" />
+      </debugTestFileDirectoryHistory>
+      <javaFxPreviewResourceURLHistory>
+        <option name="" />
+      </javaFxPreviewResourceURLHistory>
+    </DebugSettings>
+    <FailedInBuild scratchFileServiceFailed="" fxPreviewFailedBuild="" lightParserFailedBuild="" />
+    <WasShown licensedAvailable="true" lastFeatureUpdateVersion="2.1.1" lastLicensedAvailableVersion="2.9.7" javaFxAvailable="false" jekyllFrontMatter="true" unicodeLineSeparator="false" gitHubSyntaxChange="false" autoLinksExtension="true" licenseExpiration="true" licenseExpired="true" featureUpdates="false" />
+    <DiagnosticSettings isTrackReports="true" isCheckFixes="true">
+      <diagnostics />
+    </DiagnosticSettings>
+  </component>
+</application>

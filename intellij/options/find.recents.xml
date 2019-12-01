@@ -1,0 +1,53 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>reconstructVerificationSource</find>
+      <find>rec</find>
+      <find>reconstr</find>
+      <find>recon</find>
+      <find>appendJsAnnotatation</find>
+      <find>veri</find>
+      <find>appe</find>
+      <find>compile</find>
+      <find>subm</find>
+      <find>submitted</find>
+      <find>PhysicEngine</find>
+      <find>Square</find>
+      <find>Writer</find>
+      <find>Js</find>
+      <find>json</find>
+      <find>write</find>
+      <find>writei</find>
+      <find>Logger</find>
+      <find>UpdateChallenge</find>
+      <find>FinishedCurrentChallenge</find>
+      <find>for</find>
+      <find>update</find>
+      <find>challengeTemplateDAO</find>
+      <find>environment</find>
+      <find>log</find>
+      <find>challenge()</find>
+      <find>nextChallenge</find>
+      <find>.get</find>
+      <find>annot</find>
+      <find>an</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>10000</replace>
+      <replace>intOffset</replace>
+      <replace>final case class</replace>
+      <replace>.main</replace>
+      <replace>&quot;</replace>
+      <replace>PhysicFormula</replace>
+      <replace>AABB</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/projects/critical-region/server</dir>
+      <dir>$USER_HOME$/projects/critical-region/router</dir>
+      <dir>$USER_HOME$/projects/critical-region</dir>
+      <dir>$USER_HOME$/projects/critical-region/server/src</dir>
+      <dir>$USER_HOME$/projects/critical-region/client</dir>
+      <dir>$USER_HOME$/projects/critical-region/server/src/main/scala</dir>
+    </dirStrings>
+  </component>
+</application>

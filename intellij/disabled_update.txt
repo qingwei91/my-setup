@@ -1,0 +1,13 @@
+Docker
+Org4Idea
+PlantUML
+PlantUML integration
+com.dmarcotte.handlebars
+com.intellij.lang.puppet
+integration
+io.protostuff.protostuff-jetbrains-plugin
+main.kotlin.com.jimschubert.intellij.swaggercodegen
+net.seesharpsoft.intellij.plugins.csv
+org.jetbrains.plugins.rest
+org.jetbrains.plugins.ruby
+org.zalando.intellij.swagger

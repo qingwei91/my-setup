@@ -1,0 +1,33 @@
+IdeaVIM
+Org4Idea
+PlantUML integration
+com.alayouni.ansiHighlight
+com.intellij.ideolog
+com.intellij.plugins.watcher
+intellij.haskell
+io.protostuff.protostuff-jetbrains-plugin
+mobi.hsz.idea.gitignore
+net.seesharpsoft.intellij.plugins.csv
+net.vektah.codeglance
+org.jetbrains.plugins.hocon
+org.jetbrains.plugins.localization
+org.jetbrains.plugins.rest
+org.jetbrains.plugins.slim
+BashSupport
+NodeJS
+com.dmarcotte.handlebars
+org.intellij.scala
+AWSCloudFormation
+Pythonid
+com.intellij.lang.puppet
+com.vladsch.idea.multimarkdown
+org.jetbrains.plugins.ruby
+org.scalafmt.ScalaFmt
+org.toml.lang
+org.rust.lang
+org.zalando.intellij.swagger
+org.intellij.plugins.hcl
+MavenRunHelper
+Lombook Plugin
+google-java-format
+CheckStyle-IDEA

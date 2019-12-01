@@ -1,0 +1,464 @@
+<application>
+  <component name="VimLocalSettings">
+    <state version="5" />
+    <globalmarks>
+      <mark key="M" line="199" column="7" filename="$USER_HOME$/projects/mlb/session-service/docs/api/nextgen/session/V2.md" protocol="file" />
+    </globalmarks>
+    <filemarks>
+      <file name="$USER_HOME$/projects/lolipop/core/src/test/scala/raft/proptest/kv/RandomTest.scala" timestamp="1574519049385">
+        <mark key="[" line="76" column="128" />
+        <mark key="]" line="76" column="128" />
+        <mark key="." line="76" column="128" />
+      </file>
+      <file name="$USER_HOME$/projects/baguette/modules/core/src/baguette/parser/package.scala" timestamp="1574432224711">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/experiment/src/test/java/com/intuit/wasabi/experiment/impl/ExperimentGroupServiceTest.java" timestamp="1574424607882">
+        <mark key="[" line="27" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/baguette/modules/core/src/baguette/parser/PPath.scala" timestamp="1574432096288">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/dynamodb/src/main/java/com/intuit/wasabi/dynamodb/repository/DynamoDBAssignmentRepository.java" timestamp="1574414831683">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/ui/app/views/ExperimentDetails.html" timestamp="1574355105661">
+        <mark key="[" line="36" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/authentication/src/main/java/com/intuit/wasabi/authentication/impl/PasswordStorage.java" timestamp="1574246502845">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/dynamodb/src/test/resources/logback-test.xml" timestamp="1574330126810">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/janus/wasabi/dependencies/terraform/modules/dynamo-tables/vars.tf" timestamp="1574250614075">
+        <mark key="[" line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/bin/fill-ddb.sh" timestamp="1574087738808">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/lolipop/core/src/test/scala/raft/proptest/client.scala" timestamp="1574519076959">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/ui/app/views/ExperimentModal.html" timestamp="1574355101622">
+        <mark key="[" line="126" column="24" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/dynamodb/src/main/java/com/intuit/wasabi/dynamodb/config/DynamoDBRepositoryModule.java" timestamp="1574238436699">
+        <mark key="[" line="33" column="100" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/experiment-objects/src/main/java/com/intuit/wasabi/experimentobjects/NewExperiment.java" timestamp="1574350517452">
+        <mark key="[" line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/mlb/session-service/docs/api/nextgen/session/V2.md" timestamp="1574451790443" />
+      <file name="$USER_HOME$/projects/baguette/modules/core/src/baguette/parser/RawFacade.scala" timestamp="1574076850341">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/dynamodb/src/main/java/com/intuit/wasabi/dynamodb/model/ExpressionBuilder.java" timestamp="1574415066852">
+        <mark key="[" line="100" column="58" />
+        <mark key="]" line="100" column="58" />
+        <mark key="." line="100" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/baguette/modules/core/src/baguette/parser/Parser.scala" timestamp="1574108559618">
+        <mark key="[" line="673" column="27" />
+        <mark key="]" line="668" column="0" />
+        <mark key="." line="668" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/authorization/src/main/java/com/intuit/wasabi/authorization/AuthorizationModule.java" timestamp="1574181606605">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/basil/core/src/main/scala/basil/parser/TTT.scala" timestamp="1574432201449">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/basil/core/src/main/scala/basil/parser/JsonParse.scala" timestamp="1574430463903">
+        <mark key="[" line="10" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/experiment/pom.xml" timestamp="1574087045813">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/ui/app/styles/wasabi.scss" timestamp="1574426390777">
+        <mark key="[" line="623" column="13" />
+        <mark key="]" line="623" column="13" />
+        <mark key="." line="623" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/janus/wasabi/dependencies/terraform/modules/dynamo-tables/main.tf" timestamp="1574251231391">
+        <mark key="[" line="92" column="3" />
+        <mark key="]" line="171" column="0" />
+        <mark key="." line="171" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/lolipop/core/src/main/scala/raft/RaftApi.scala" timestamp="1574516359583" />
+      <file name="$USER_HOME$/projects/weaponx/wasabi/janus/wasabi/dependencies/terraform/modules/iam-roles/main.tf" timestamp="1574155526803">
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/dynamodb/src/main/java/com/intuit/wasabi/dynamodb/repository/DynamoDBExperimentGroupRepository.java" timestamp="1574243712447">
+        <mark key="[" line="188" column="8" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/qingwei91.github.io/journal/nov-2019.md" timestamp="1574423341093">
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="25" column="37" />
+        <mark key="." line="25" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/dynamodb/src/main/java/com/intuit/wasabi/dynamodb/model/ExperimentHelper.java" timestamp="1574416588909">
+        <mark key="[" line="47" column="39" />
+        <mark key="]" line="128" column="43" />
+        <mark key="." line="128" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/lolipop/core/src/test/scala/raft/proptest/Event.scala" timestamp="1574367979794">
+        <mark key="[" line="60" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/baguette/modules/core/src/baguette/parser/CharSequenceParser.scala" timestamp="1574076285481">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/api/src/main/java/com/intuit/wasabi/api/ExperimentsResource.java" timestamp="1574415756709">
+        <mark key="[" line="583" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/lolipop/core/src/test/scala/raft/proptest/checker/LinearizationCheck.scala" timestamp="1574439763679">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/experiment/src/main/java/com/intuit/wasabi/experiment/impl/ExperimentsService.java" timestamp="1574349650814">
+        <mark key="[" line="127" column="12" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/ui/app/scripts/services/ApplicationsFactory.js" timestamp="1574095282824">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/authorization/src/main/java/com/intuit/wasabi/authorization/impl/DefaultAuthorization.java" timestamp="1574242061458">
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="228" column="0" />
+        <mark key="." line="228" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/janus/wasabi/dependencies/terraform/modules/iam-roles/vars.tf" timestamp="1574155379098">
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/main/src/main/resources/logback.xml" timestamp="1574353683240">
+        <mark key="[" line="166" column="17" />
+        <mark key="]" line="166" column="17" />
+        <mark key="." line="166" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/dynamodb/src/main/java/com/intuit/wasabi/dynamodb/repository/DynamoDBUserRepository.java" timestamp="1574344028720">
+        <mark key="[" line="85" column="93" />
+      </file>
+      <file name="$USER_HOME$/projects/baguette/modules/core/src/baguette/SchematicJsonParser.scala" timestamp="1574437671612">
+        <mark key="[" line="83" column="25" />
+        <mark key="]" line="83" column="25" />
+        <mark key="." line="83" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/baguette/modules/core/src/baguette/parser/CharBasedParser.scala" timestamp="1574104942099">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/experiment/src/main/java/com/intuit/wasabi/experiment/ExperimentsModule.java" timestamp="1574424927302">
+        <mark key="[" line="46" column="34" />
+        <mark key="]" line="46" column="34" />
+        <mark key="." line="46" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/lolipop/core/src/test/scala/raft/proptest/cluster/ClusterApi.scala" timestamp="1574518971756">
+        <mark key="[" line="70" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/ui/app/views/PrioritiesTable.html" timestamp="1574426612384">
+        <mark key="[" line="30" column="74" />
+        <mark key="]" line="30" column="74" />
+        <mark key="." line="30" column="74" />
+      </file>
+      <file name="$USER_HOME$/projects/lolipop/core/src/main/scala/raft/algebra/client/ClientReadImpl.scala" timestamp="1574513463100" />
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/test-utils/src/main/java/com/intuit/wasabi/experimentobjects/TestNewExperiment.java" timestamp="1574333572654">
+        <mark key="[" line="35" column="27" />
+        <mark key="]" line="23" column="33" />
+        <mark key="." line="23" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/experiment-objects/src/main/java/com/intuit/wasabi/experimentobjects/Experiment.java" timestamp="1574350486483">
+        <mark key="[" line="137" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/experiment/src/main/java/com/intuit/wasabi/experiment/impl/PrioritiesImpl.java" timestamp="1574424936047">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/dynamodb/src/main/java/com/intuit/wasabi/dynamodb/repository/DynamoDBBucketRepository.java" timestamp="1574414909468">
+        <mark key="[" line="186" column="104" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/baguette/modules/core/src/baguette/parser/JsonParse.scala" timestamp="1574437703752">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/lolipop/core/src/test/scala/raft/proptest/kv/KVOps.scala" timestamp="1574519164117">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/analytics/src/main/java/com/intuit/wasabi/analytics/impl/AnalyticsImpl.java" timestamp="1574419422069">
+        <mark key="[" line="113" column="4" />
+        <mark key="]" line="113" column="4" />
+        <mark key="." line="113" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/experiment/src/main/java/com/intuit/wasabi/experiment/Priorities.java" timestamp="1574420037442">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/lolipop/core/src/test/scala/raft/proptest/cluster/ClusterOps.scala" timestamp="1574518110716">
+        <mark key="[" line="70" column="50" />
+        <mark key="]" line="73" column="27" />
+        <mark key="." line="73" column="27" />
+        <mark key="^" line="73" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/lolipop/core/src/test/scala/raft/proptest/package.scala" timestamp="1574455240672">
+        <mark key="[" line="109" column="37" />
+        <mark key="]" line="109" column="37" />
+        <mark key="." line="109" column="37" />
+        <mark key="^" line="121" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/weaponx/wasabi/modules/analytics/src/main/java/com/intuit/wasabi/analytics/Analytics.java" timestamp="1574419349791">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1574348719736">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/projects/omnizen/infra.log" />
+      <jump line="29" column="29" filename="$USER_HOME$/projects/mlb/end-to-end/src/test/scala/account/AccountLoginTest.scala" />
+      <jump line="190" column="0" filename="$USER_HOME$/projects/mlb/end-to-end/src/test/scala/account/AccountUpdateTest.scala" />
+      <jump line="47" column="0" filename="$USER_HOME$/projects/mlb/end-to-end/src/test/scala/account/AccountLoginTest.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/omnizen/infra.log" />
+      <jump line="48" column="103" filename="$USER_HOME$/projects/mlb/end-to-end/build.sbt" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/mlb/account-service/api/src/ftest/scala/com/mlbam/common/AccountOpsHelper.scala" />
+      <jump line="1243" column="39" filename="$USER_HOME$/projects/mlb/account-service/api/logs/application.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mlb/account-service/api/logs/application.log" />
+      <jump line="1862" column="261" filename="$USER_HOME$/projects/mlb/account-service/api/logs/application.log" />
+      <jump line="256" column="197" filename="$USER_HOME$/projects/mlb/account-service/api/logs/application.log" />
+      <jump line="474" column="48" filename="$USER_HOME$/projects/mlb/account-service/api/logs/application.log" />
+      <jump line="544" column="12" filename="$USER_HOME$/projects/mlb/account-service/api/logs/application.log" />
+      <jump line="166" column="12" filename="$USER_HOME$/projects/mlb/account-service/api/logs/application.log" />
+      <jump line="117" column="14" filename="$USER_HOME$/projects/mlb/account-service/api/logs/application.log" />
+      <jump line="130" column="49" filename="$USER_HOME$/projects/mlb/account-service/api/src/ftest/scala/com/mlbam/account/internal/PrivateAccountDeletionTest.scala" />
+      <jump line="106" column="68" filename="$USER_HOME$/projects/omnizen/client/src/test/scala/omnizen/client/ui/InputDomDerivation.scala" />
+      <jump line="28" column="27" filename="$USER_HOME$/projects/mlb/general-docs/platform-failure/failure-mode-live.md" />
+      <jump line="8" column="57" filename="$USER_HOME$/projects/mlb/performance-tests/src/main/scala/com/bamtechmedia/perf/configuration/DynamoTargetThroughPutReader.scala" />
+      <jump line="86" column="7" filename="$USER_HOME$/projects/omnizen/client/src/main/scala/omnizen/client/components/optimization/OptInput.scala" />
+      <jump line="31" column="49" filename="$USER_HOME$/projects/mlb/account-service/api/src/ftest/scala/com/mlbam/common/PlayFunctionalTest.scala" />
+      <jump line="57" column="15" filename="$USER_HOME$/projects/mlb/account-service/docker/ash-template" />
+      <jump line="2" column="24" filename="$USER_HOME$/projects/mlb/scale/common/src/main/scala/com/bamtechmedia/scale/common/typeclass/CapacityPowerRatio.scala" />
+      <jump line="97" column="16" filename="$USER_HOME$/projects/mlb/scale/dynamo/src/main/scala/com/bamtechmedia/scale/dynamo/DynamoScaler.scala" />
+      <jump line="5" column="95" filename="$USER_HOME$/projects/graphbitrage/core/src/model/TriArbOpp.scala" />
+      <jump line="4" column="14" filename="$USER_HOME$/projects/mlb/scale/common/src/main/scala/com/bamtechmedia/scale/common/SetUtils.scala" />
+      <jump line="28" column="43" filename="$USER_HOME$/projects/mlb/scale/dynamo/src/main/scala/com/bamtechmedia/scale/dynamo/DynamoScaler.scala" />
+      <jump line="11" column="99" filename="$USER_HOME$/projects/graphbitrage/core/test/src/arb/TriArbSpec.scala" />
+      <jump line="31" column="52" filename="$USER_HOME$/projects/mlb/account-service/api/app/com/bamtechmedia/user/account/auth/RequestPerPartner.scala" />
+      <jump line="8" column="36" filename="$USER_HOME$/projects/graphbitrage/poloniex/src/ws/WSChannel.scala" />
+      <jump line="32" column="18" filename="$USER_HOME$/projects/mlb/scribe/scribe/light/src/scribe/light/Main.scala" />
+      <jump line="56" column="34" filename="$USER_HOME$/projects/graphbitrage/poloniex/src/client/Main.scala" />
+      <jump line="113" column="44" filename="$USER_HOME$/projects/graphbitrage/poloniex/src/client/Main.scala" />
+      <jump line="38" column="41" filename="$USER_HOME$/projects/mlb/end-to-end/src/test/scala/idp/internal/InternalResetPasswordTest.scala" />
+      <jump line="80" column="16" filename="$USER_HOME$/projects/graphbitrage/poloniex/src/api/v2/PoloCommand.scala" />
+      <jump line="188" column="40" filename="$USER_HOME$/projects/mlb/end-to-end/src/test/scala/account/AccountRetrievalTestUsingFlute.scala" />
+      <jump line="221" column="48" filename="$USER_HOME$/projects/mlb/end-to-end/src/test/scala/account/AccountRetrievalTestUsingFlute.scala" />
+      <jump line="17" column="25" filename="$USER_HOME$/projects/mlb/account-service/test_attributes.sh" />
+      <jump line="17" column="14" filename="$USER_HOME$/projects/mlb/account-service/core/src/main/scala/com/bamtechmedia/user/account/model/InternalAccount.scala" />
+      <jump line="102" column="33" filename="$USER_HOME$/projects/graphbitrage/poloniex/src/api/v2/PoloCommand.scala" />
+      <jump line="24" column="23" filename="$USER_HOME$/projects/mlb/idp-service/core/src/main/scala/com/bamnetworks/idp/IDPService.scala" />
+      <jump line="42" column="1" filename="$USER_HOME$/projects/mlb/account-service/infra-profile/src/main/scala/com/bamtechmedia/user/account/profile/PrivateProfileServiceWSClient.scala" />
+      <jump line="143" column="64" filename="$USER_HOME$/projects/mlb/account-service/infra-profile/src/main/scala/com/bamtechmedia/user/account/profile/PrivateProfileServiceWSClient.scala" />
+      <jump line="104" column="18" filename="$USER_HOME$/projects/mlb/idp-service/infra-dynamo/src/main/scala/com/bamnetworks/idp/DynamoDBIDPRepository.scala" />
+      <jump line="75" column="17" filename="$USER_HOME$/projects/mlb/idp-service/core/src/main/scala/com/bamnetworks/idp/services/PublicIDPService.scala" />
+      <jump line="88" column="66" filename="$USER_HOME$/projects/mlb/idp-service/api/test/com/bamnetworks/idp/controllers/internal/CreateIdentityWithHashedPasswordControllerSpec.scala" />
+      <jump line="50" column="27" filename="$USER_HOME$/projects/mlb/scribe/scribe/dynamo/src/scribe.dynamo/deserialise.scala" />
+      <jump line="126" column="39" filename="$USER_HOME$/projects/mlb/end-to-end/src/test/scala/account/internal/InternalAccountServiceTestUsingFlute.scala" />
+      <jump line="10" column="12" filename="$USER_HOME$/projects/mlb/idp-service/api/app/com/bamnetworks/idp/tokens/IdTokenGenerator.scala" />
+      <jump line="46" column="30" filename="$USER_HOME$/projects/mlb/end-to-end/src/test/scala/account/internal/InternalAccountServiceTest.scala" />
+      <jump line="96" column="27" filename="$USER_HOME$/projects/basil/src/main/scala/basil/api/ArrayParse.scala" />
+      <jump line="31" column="21" filename="$USER_HOME$/projects/graphbitrage/src/main/scala/graphbitrage/core/logic/TriArbEngine.scala" />
+      <jump line="30" column="93" filename="$USER_HOME$/projects/mlb/oneid-syncer-lambda/acc-updater/src/main/scala/updater/LambdaMainFlow.scala" />
+      <jump line="49" column="0" filename="$USER_HOME$/projects/basil/src/test/scala/basil/parser/ParserSpec.scala" />
+      <jump line="27" column="41" filename="$USER_HOME$/projects/mlb/scribe/scribe/json/src/scribe/json/serialise.scala" />
+      <jump line="63" column="52" filename="$USER_HOME$/projects/mlb/profile-service/api/app/com/bamtechmedia/user/profile/controllers/ProfileLookup.scala" />
+      <jump line="94" column="48" filename="$USER_HOME$/projects/mlb/idp-service/infra-dynamo/src/main/scala/com/bamtechmedia/user/idp/AbstractDynamoDBRepository.scala" />
+      <jump line="66" column="0" filename="$USER_HOME$/projects/mlb/services-commons/technical-docs/disney-one-id-dss-platform-integration/one-id-attr-sync-on-acc-creation.md" />
+      <jump line="92" column="33" filename="$USER_HOME$/projects/basil/src/main/scala/basil/data/ParseOpsConstructor.scala" />
+      <jump line="12" column="32" filename="$USER_HOME$/projects/mlb/sparkleformation/Jenkinsfile" />
+      <jump line="23" column="26" filename="$USER_HOME$/projects/mlb/oneid-syncer-lambda/oneid-sync-on-create/src/test/scala/sync_on_create/TestGen.scala" />
+      <jump line="18" column="76" filename="$USER_HOME$/projects/mlb/oneid-syncer-lambda/oneid-events-puller/src/test/scala/syncer/Anything.scala" />
+      <jump line="19" column="4" filename="$USER_HOME$/projects/mlb/oneid-syncer-lambda/oneid-events-puller/src/test/scala/syncer/Anything.scala" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/mlb/oneid-syncer-lambda/oneid-events-puller/src/test/scala/syncer/Anything.scala" />
+      <jump line="21" column="4" filename="$USER_HOME$/projects/mlb/oneid-syncer-lambda/oneid-events-puller/src/test/scala/syncer/Anything.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/mlb/operations/check/core/src/main/scala/com/bamtechmedia/check/Run.scala" />
+      <jump line="332" column="6" filename="$USER_HOME$/projects/mlb/operations/check/core/src/main/scala/com/bamtechmedia/check/Reports.scala" />
+      <jump line="25" column="65" filename="$USER_HOME$/projects/honey/app/src/main/scala/honey/io/impl/SQLiteDataIO.scala" />
+      <jump line="33" column="59" filename="$USER_HOME$/projects/mlb/rope/modules/interp/src/main/scala/rope/interp/Fs2EventStream.scala" />
+      <jump line="77" column="23" filename="$USER_HOME$/projects/mlb/rope/modules/test/src/main/scala/rope/test/modules.scala" />
+      <jump line="57" column="22" filename="$USER_HOME$/projects/mlb/oneid-syncer-lambda/oneid-syncer-dependencies/autoscale-kinesis.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mlb/oneid-syncer-lambda/oneid-syncer-dependencies/autoscale-kinesis.yaml" />
+      <jump line="62" column="8" filename="$USER_HOME$/projects/mlb/migrations/Migration5-MigrateProfileLists.sc" />
+      <jump line="48" column="28" filename="$USER_HOME$/projects/mlb/rope/modules/scripts/src/main/scala/rope/scripts/DDBStreamDownload.scala" />
+      <jump line="184" column="10" filename="$USER_HOME$/projects/mlb/rope/modules/test/src/main/scala/rope/test/events/AccountProfileEventTest.scala" />
+      <jump line="224" column="44" filename="$USER_HOME$/projects/mlb/rope/modules/test/src/main/scala/rope/test/reqres/AccountServiceTest.scala" />
+      <jump line="21" column="60" filename="$USER_HOME$/projects/raft-scala/core/src/test/scala/raft/RaftReplicationSpec.scala" />
+      <jump line="153" column="9" filename="$USER_HOME$/projects/raft-scala/core/src/main/scala/raft/algebra/append/AppendEntriesHandlerImpl.scala" />
+      <jump line="265" column="0" filename="$USER_HOME$/projects/mlb/scribe/UNM49.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mlb/scribe/UNM49.scala" />
+      <jump line="497" column="0" filename="$USER_HOME$/projects/mlb/scribe/UNM49.scala" />
+      <jump line="249" column="6" filename="$USER_HOME$/projects/mlb/scribe/UNM49.scala" />
+      <jump line="279" column="5" filename="$USER_HOME$/projects/mlb/scribe/UNM49.scala" />
+      <jump line="559" column="0" filename="$USER_HOME$/projects/mlb/scribe/UNM49.scala" />
+      <jump line="95" column="22" filename="$USER_HOME$/projects/raft-scala/http-example/src/main/scala/raft/http/RaftHttpExample.scala" />
+      <jump line="384" column="1" filename="$USER_HOME$/projects/mlb/rope/modules/interp/src/main/scala/rope/interp/flute/FluteAccountService.scala" />
+      <jump line="121" column="45" filename="$USER_HOME$/projects/coding-practice/src/main/scala/solution/LeetCode.scala" />
+      <jump line="165" column="34" filename="$USER_HOME$/projects/mlb/migrations/profile/src/main/scala/migration/FakeDynamoDB.scala" />
+      <jump line="97" column="74" filename="$USER_HOME$/projects/mlb/oneid-creds-syncer/sync-on-invocation/src/test/scala/sync_on_invocation/propertyTesting/NetworkSimulation.scala" />
+      <jump line="395" column="5" filename="$USER_HOME$/projects/mlb/idp-service/api/app/com/bamtechmedia/user/idp/modules/GuiceConfigurationModule.scala" />
+      <jump line="33" column="1" filename="$USER_HOME$/projects/qingwei91.github.io/journal/aug-2019.md" />
+      <jump line="330" column="64" filename="$USER_HOME$/projects/mlb/rope/modules/test/src/main/scala/rope/test/reqres/AccountServiceTest.scala" />
+      <jump line="332" column="49" filename="$USER_HOME$/projects/mlb/rope/modules/test/src/main/scala/rope/test/events/OtpEventTest.scala" />
+      <jump line="103" column="0" filename="$USER_HOME$/projects/lolipop/core/src/test/scala/raft/proptest/kv/RandomTest.scala" />
+      <jump line="18" column="16" filename="$USER_HOME$/projects/lolipop/core/src/test/scala/raft/proptest/checker/LinearizationCheck.scala" />
+      <jump line="6" column="25" filename="$USER_HOME$/projects/mlb/oneid-creds-syncer/sync-on-invocation/src/main/scala/sync_on_invocation/AsyncRegister.scala" />
+      <jump line="399" column="82" filename="$USER_HOME$/projects/mlb/rope/modules/test/src/main/scala/rope/test/events/OtpEventTest.scala" />
+      <jump line="107" column="18" filename="$USER_HOME$/projects/mlb/oneid-syncer-lambda/Jenkinsfile.deploy-oneid" />
+      <jump line="117" column="6" filename="$USER_HOME$/projects/qingwei91.github.io/presentations/stateful-fp/slides.md" />
+      <jump line="375" column="2" filename="$USER_HOME$/projects/qingwei91.github.io/presentations/stateful-fp/slides.md" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="c" type="4">
+        <text>s&quot;$v&quot;</text>
+      </register>
+      <register name="-" type="4">
+        <text>widen</text>
+      </register>
+      <register name="m" type="4">
+        <text>${conf.mockIDP}</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx1c2VyXD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">bG9vcE92ZXJBcGlbRl0oYXBpLCBhcGkgPT4gYXBpLnN0YWxlUmVhZChvcCksIGNsdXN0ZXIsIHNsZWVwVGltZSk=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBsb29wT3ZlckFwaVtGW19dOiBNb25hZF0oCiAgICBhcGk6IEtWUmFmdFtGXSwKICAgIGZpcmVSZXF1ZXN0OiBLVlJhZnRbRl0gPT4gRltDbGllbnRSZXNwb25zZVtLVlJlc3VsdFtTdHJpbmddXV0sCiAgICBjbHVzdGVyOiBDbHVzdGVyW0ZdLAogICAgc2xlZXBUaW1lOiBGaW5pdGVEdXJhdGlvbgogICkoaW1wbGljaXQgdDogVGltZXJbRl0sIGNvbjogQ29uY3VycmVudFtGXSk6IEZbS1ZSZXN1bHRbU3RyaW5nXV0gPSB7CiAgICBmaXJlUmVxdWVzdChhcGkpLmZsYXRNYXAgewogICAgICBjYXNlIFJlZGlyZWN0VG8obm9kZUlEKSA9PiBsb29wT3ZlckFwaShjbHVzdGVyKG5vZGVJRCksIGZpcmVSZXF1ZXN0LCBjbHVzdGVyLCBzbGVlcFRpbWUpCiAgICAgIGNhc2UgTm9MZWFkZXIgPT4gdC5zbGVlcChzbGVlcFRpbWUpICo+IGxvb3BPdmVyQXBpKGFwaSwgZmlyZVJlcXVlc3QsIGNsdXN0ZXIsIHNsZWVwVGltZSkKICAgICAgY2FzZSBDb21tYW5kQ29tbWl0dGVkKHJlcykgPT4gcmVzLnB1cmVbRl0KICAgIH0KICB9</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkZWYgZXhlY3V0ZVtGW19dOiBNb25hZF0oCiAgICBvcHM6IEtWT3BzLAogICAgY2x1c3RlcjogQ2x1c3RlcltGXSwKICAgIHRocmVhZElkOiBTdHJpbmcsCiAgICBzbGVlcFRpbWU6IEZpbml0ZUR1cmF0aW9uID0gMjAwLm1pbGxpcywKICAgIHRpbWVvdXQ6IEZpbml0ZUR1cmF0aW9uICAgPSAyLnNlY29uZHMKICApKGltcGxpY2l0IHQ6IFRpbWVyW0ZdLCBjb246IENvbmN1cnJlbnRbRl0pOiBGW0tWRXZlbnRdID0gewoKICAgIHZhbCBleGVjdXRpb246IEZbRWl0aGVyW1Rocm93YWJsZSwgS1ZSZXN1bHRbU3RyaW5nXV1dID0gKG9wcyBtYXRjaCB7CiAgICAgIGNhc2UgUHV0KF8sIF8pIHwgRGVsZXRlKF8pID0+CiAgICAgICAgdmFsIChfLCBhcGkpID0gY2x1c3Rlci5oZWFkCgogICAgICAgIGxvb3BPdmVyQXBpW0ZdKGFwaSwgYXBpID0+IGFwaS53cml0ZShvcHMpLCBjbHVzdGVyLCBzbGVlcFRpbWUpCiAgICAgICAgICAubWFwKEVpdGhlci5yaWdodFtUaHJvd2FibGUsIEtWUmVzdWx0W1N0cmluZ11dKF8pKQoKICAgICAgY2FzZSBvcCBAIEdldChfKSA9PgogICAgICAgIHZhbCAoXywgYXBpKSA9IGNsdXN0ZXIuaGVhZAogICAgICAgIGxvb3BPdmVyQXBpW0ZdKGFwaSwgYXBpID0+IGFwaS5zdGFsZVJlYWQob3ApLCBjbHVzdGVyLCBzbGVlcFRpbWUpCiAgICAgICAgICAubWFwKEVpdGhlci5yaWdodFtUaHJvd2FibGUsIEtWUmVzdWx0W1N0cmluZ11dKF8pKQogICAgfSkudGltZW91dCh0aW1lb3V0KQogICAgICAucmVjb3ZlciB7CiAgICAgICAgY2FzZSBlcnI6IFRocm93YWJsZSA9PiBFaXRoZXIubGVmdFtUaHJvd2FibGUsIEtWUmVzdWx0W1N0cmluZ11dKGVycikKICAgICAgfQoKICAgIGZvciB7CiAgICAgIHN0YXJ0VGltZSA8LSB0LmNsb2NrLm1vbm90b25pYyhNSUNST1NFQ09ORFMpCiAgICAgIHJldEV2ICAgICA8LSBleGVjdXRpb24KICAgICAgZW5kVGltZSAgIDwtIHQuY2xvY2subW9ub3RvbmljKE1JQ1JPU0VDT05EUykKICAgIH0geWllbGQgewogICAgICBGdWxsT3BlcmF0aW9uKHRocmVhZElkLCBvcHMsIHJldEV2LCBzdGFydFRpbWUsIGVuZFRpbWUpCiAgICB9CiAgfQ==</text>
+      </register>
+      <register name="u" type="4">
+        <keys>
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBvcCA9PgovLyAgICAgICAgICAgICAgICAgICAgICAgICAgS1ZPcHMuZXhlY3V0ZVtJT10oCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wcyA9IG9wLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbHVzdGVyID0gYWxsTm9kZXMubWFwVmFsdWVzKF8uYXBpKSwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyZWFkSWQgPSB0aHJlYWRJZCwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgc2xlZXBUaW1lID0gMzAwLm1pbGxpcywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgdGltZW91dCA9IDMuc2Vjb25kcwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGFwaVJlcwogICAgICAgICAgICAgICAgICAgICAgICAgIC50aW1lb3V0KDEuc2Vjb25kKQogICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAocmVzID0+IEZ1bGxPcGVyYXRpb24odGhyZWFkSWQsIG9wLCByZXMpKQogICAgICAgICAgICAgICAgICAgICAgICAgIC5yZWNvdmVyKCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHJhZnQucHJvcHRlc3Qua3YuS1ZPcHMueyBDbHVzdGVyLCBLVlJhZnQgfQppbXBvcnQgcmFmdC5wcm9wdGVzdC5rdi5LVlJlc3VsdAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDx1c2VyXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx1c2VyXD4=</last-pattern>
+      <last-replace>LoggingJsonReader</last-replace>
+      <last-substitute>RootJsonReader</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>event</entry>
+        <entry>jackson</entry>
+        <entry>overr</entry>
+        <entry>kines</entry>
+        <entry>Overr</entry>
+        <entry>Memo</entry>
+        <entry>&quot;0.13.2&quot;</entry>
+        <entry>JWTClaims</entry>
+        <entry>aud</entry>
+        <entry encoding="base64">XDx8XD4=</entry>
+        <entry>RootJsonReader</entry>
+        <entry>:s</entry>
+        <entry encoding="base64">XDxXaGF0XD4=</entry>
+        <entry encoding="base64">XDx1c2VyXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>10</entry>
+        <entry>%s/&quot;0.13.2&quot;/breezeV/g</entry>
+        <entry>%s/RootJsonReader/LoggingJsonReader</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+</application>
